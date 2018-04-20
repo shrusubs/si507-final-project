@@ -1,0 +1,83 @@
+
+Commands available:
+
+geo
+  Description: Lists geographical info for medical schools according
+  to the specified parameters.
+
+  Options:
+  * state=<name>|country=<name> [default: none]
+    Description: Specifies a state or country within which to limit results.
+    Country options are limited to USA, Canada, PuertoRico, and Singapore.
+    States options are available for all US and select Canada states.
+
+  * limit=<limit> [default: limit=20]
+    Description: Specifies how many results to list.
+
+performance
+  Description: Lists medical school admission scores according to the specified
+  parameters.
+
+  Options:
+  * state=<name>|country=<name> [default: none]
+    Description: Specifies a state or country within which to limit results.
+    Country options are limited to USA, Canada, PuertoRico, and Singapore.
+    States options are available for all US and select Canada states.
+
+  * type=<school type> [default: none]
+    Description: Specifies a type of medical school (Allopathic or Osteopathic)
+    within which to limit results.
+
+  * rank=<number> [default: none]
+    Description: Specifies whether to limit results to a specific SDN-given rank
+    category (Rank value must be within the range of 1-5).
+
+  * score=mcat|score=gpa [default: score=mcat]
+    Description: Specifies what admission score to list in results.
+
+  * top=<limit>|bottom=<limit> [default: top=10]
+    Description: Specifies whether to list the top <limit> matches or the bottom
+    <limit> matches. If Score is specified, the schools with the top <limit> or
+    bottom <limit> scores is returned instead of by School Id.
+
+  * OF NOTE: State parameter must be entered before either type or rank,
+    and type must be entered before rank, if multiple parameters are entered.
+
+tuition
+  Description: Lists tuition information for medical schools according to the
+  specified parameters.
+
+  Options:
+  * state=<name>|cost=<in>|cost<out> [default: cost=in]
+    Description: Specifies whether to limit results by a certain state,
+    or by In-state tuition or Out-of-state tuition. User can specify either
+    a state, or In-state vs Out-of-state tuition results.
+
+  * type=<school type> [default: none]
+    Description: Specifies a type of medical school (Allopathic or Osteopathic)
+    within which to limit results.
+
+  * rank=<number> [default: none]
+    Description: Specifies whether to limit results to a specific SDN-given rank
+    category (Rank value must be within the range of 1-5).
+
+  * top=<limit>|bottom=<limit> [default: top=10]
+    Description: Specifies whether to list the top <limit> matches or the bottom
+    <limit> matches. If Cost is specified, the schools with the top <limit> or
+    bottom <limit> tuitions is returned instead of by School Id.
+
+  * OF NOTE: State or Cost parameters must be entered before Type or Rank
+    parameters, if multiple parameters are included.
+
+numbers
+  Description: Lists different counts of medical school attributes according to
+  the specified parameters.
+
+  Options:
+  * rank|state|country|type [default: none]
+    Description: Specifies that results should be limited to # of schools
+    within each rank category, # of schools per state, # of schools per
+    country, or # of schools per school type.
+
+  * OF NOTE: One of the above 4 parameters MUST be entered along with the
+    numbers command

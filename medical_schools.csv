@@ -1,0 +1,196 @@
+SchoolName, SchoolAbbrev, Year, Enrolled, City, State, Country, SDNRank, ResTuition, NonResTuition, AvgMCAT, AvgGPA, Type
+Oklahoma State University Center for Health Sciences College of Osteopathic Medicine,osu-com,1972,115,Tulsa,OK,USA,5,22835,44966,27.0,3.6,Osteopathic
+Baylor College of Medicine,bcm,1900,172,Houston,TX,USA,5,6550,19650,35.0,3.8,Allopathic
+Columbia University College of Physicians and Surgeons,cucps,1767,162,New York,NY,USA,5,55418,55418,36.0,3.8,Allopathic
+Duke University School of Medicine,dukemed,1930,112,Durham,NC,USA,5,39500,39500,35.0,3.7,Allopathic
+Emory University School of Medicine,emory,1854,140,Atlanta,GA,USA,5,49800,49800,34.0,3.7,Allopathic
+Harvard Medical School,hms,1782,176,Boston,MA,USA,5,55850,55850,36.0,3.8,Allopathic
+Johns Hopkins University School of Medicine,jhu,1893,120,Baltimore,MD,USA,5,48750,48750,35.3,3.9,Allopathic
+Mayo Medical School,mms,1972,50,Rochester,MN,USA,5,47470,47470,33.0,3.8,Allopathic
+McGill University Faculty of Medicine,mcgill-fom,1829,,Montreal,QC,Canada,5,13224,37705,,,Allopathic
+Stanford University School of Medicine,stanford,1908,116,Stanford,CA,USA,5,50715,50715,35.0,3.8,Allopathic
+University of California Los Angeles David Geffen School of Medicine,ucla-geffen,1945,192,Los Angeles,CA,USA,5,32546,44791,35.0,3.8,Allopathic
+University of California San Francisco School of Medicine,ucsf-som,1864,166,San Francisco,CA,USA,5,36382,48627,34.0,3.8,Allopathic
+University of Chicago Pritzker School of Medicine,u-of-c,1927,90,Chicago,IL,USA,5,57240,57240,36.0,3.8,Allopathic
+University of Michigan Medical School,umich,1848,177,Ann Arbor,MI,USA,5,32700,51116,34.8,3.8,Allopathic
+University of Ottawa Faculty of Medicine,uottawa,1848,156,Ottawa,ON,Canada,5,23296,,,,Allopathic
+University of Pennsylvania Perelman School of Medicine,pennmed,1765,157,Philadelphia,PA,USA,5,52210,52210,37.0,3.8,Allopathic
+University of Toronto Faculty of Medicine,utoronto-fom,1843,259,Toronto,ON,Canada,5,22180,66070,33.0,3.9,Allopathic
+University of Washington School of Medicine,uwash,1946,180,Seattle,WA,USA,5,36964,71048,28.0,3.5,Allopathic
+Washington University-St. Louis School of Medicine,wustl,1891,123,St. Louis,MO,USA,5,58460,58460,37.4,3.8,Allopathic
+Yale School of Medicine,ysm,1810,104,New Haven,CT,USA,5,55680,55680,36.6,3.8,Allopathic
+A.T. Still University Kirksville College of Osteopathic Medicine,atsu-kcom,1892,172,Kirksville,MO,USA,4,51191,51191,27.0,3.6,Osteopathic
+Western University of Health Sciences College of Osteopathic Medicine of the Pacific-Northwest,wuhs-nw,2011,105,Lebanon,OR,USA,4,53610,53610,28.0,3.6,Osteopathic
+Des Moines University College of Osteopathic Medicine,dmu-com,1898,221,Des Moines,IA,USA,4,45690,45690,28.3,3.6,Osteopathic
+University of British Columbia Faculty of Medicine,ubc-fom,1950,272,Vancouver,BC,Canada,4,17066,,32.0,,Allopathic
+Michigan State University College of Osteopathic Medicine,msucom,1969,250,East Lansing,MI,USA,4,27854,55848,28.0,3.6,Osteopathic
+Ohio University Heritage College of Osteopathic Medicine,ou-com,1975,190,Athens,OH,USA,4,32806,45816,27.4,3.7,Osteopathic
+Philadelphia College of Osteopathic Medicine at Philadelphia,pcom,1899,268,Philadelphia,PA,USA,4,46620,46620,28.0,3.5,Osteopathic
+Cooper Medical School of Rowan University,cmsru,2012,,Camden,NJ,USA,4,35965,57076,,,Allopathic
+Rowan University School of Osteopathic Medicine,umdnj-som,1976,162,Stratford,NJ,USA,4,37269,59798,28.0,3.5,Osteopathic
+Liberty University College of Osteopathic Medicine,lucom,2010,,Lynchburg,VA,USA,4,41500,41500,,3.5,Osteopathic
+Brown University Warren Alpert Medical School,brown,1972,125,Providence,RI,USA,4,49384,49384,32.7,3.7,Allopathic
+Case Western Reserve University School of Medicine,cwru,1843,217,Cleveland,OH,USA,4,55370,55370,34.6,3.9,Allopathic
+Cleveland Clinic Lerner College of Medicine of Case Western University,cclcm,2002,32,Cleveland,OH,USA,4,57475,57475,,,Allopathic
+Dalhousie University Faculty of Medicine,dufm,1868,,Halifax,NS,Canada,4,18300,18300,,,Allopathic
+Dartmouth Geisel School of Medicine,dms,1797,92,Hanover,NH,USA,4,56104,56104,34.0,3.8,Allopathic
+Weill Cornell Medical College,cornell,1898,101,New York,NY,USA,4,50950,50950,34.8,3.8,Allopathic
+Louisiana State University New Orleans School of Medicine,lsu-no,1931,192,New Orleans,LA,USA,4,23985,50880,31.0,3.6,Allopathic
+Loyola University Stritch School of Medicine,loyola,1870,160,Maywood,IL,USA,4,54663,54663,28.0,3.6,Allopathic
+Icahn School of Medicine at Mount Sinai,mssm,1963,138,New York,NY,USA,4,46388,46388,35.0,3.7,Allopathic
+New York University School of Medicine,nyu,1841,159,New York,NY,USA,4,49080,49080,35.0,3.8,Allopathic
+Northwestern University Feinberg School of Medicine,nu,1859,168,Chicago,IL,USA,4,53947,53947,36.0,3.9,Allopathic
+Ohio State University College of Medicine,osu-comph,1834,186,Columbus,OH,USA,4,51484,70180,34.0,3.7,Allopathic
+Uniformed Services University of the Health Sciences F. Edward Hébert School of Medicine,usuhs,1972,171,Bethesda,MD,USA,4,,,30.0,3.6,Allopathic
+University of Alabama at Birmingham School of Medicine,uab-som,1859,190,Birmingham,AL,USA,4,28522,63988,30.0,3.7,Allopathic
+University of Alberta Faculty of Medicine & Dentistry,uoa-fom,1913,162,Edmonton,AB,Canada,4,7663,,33.0,3.9,Allopathic
+University of California Davis School of Medicine,uc-davis,1966,104,Sacramento,CA,USA,4,38012,38012,32.0,3.7,Allopathic
+University of California Los Angeles / Charles R. Drew University of Medicine and Science,drewucla,1966,24,Los Angeles,CA,USA,4,22024,34269,,,Allopathic
+University of California San Diego School of Medicine,ucsd-som,1968,89,La Jolla,CA,USA,4,36084,44993,34.1,3.7,Allopathic
+University of Colorado Denver School of Medicine,ucolorado,1883,184,Aurora,CO,USA,4,35678,61633,34.0,3.8,Allopathic
+University of Florida College of Medicine,uf-com,1956,119,Gainesville,FL,USA,4,32742,60588,32.2,3.8,Allopathic
+University of Iowa Carver College of Medicine,ui-carver,1870,145,Iowa City,IA,USA,4,33532,50602,32.3,3.8,Allopathic
+University of Massachusetts Medical School,umms,1970,125,Worcester,MA,USA,4,32000,,31.5,3.6,Allopathic
+University of Miami Miller School of Medicine,ummsm,1952,151,Miami,FL,USA,4,36117,41580,33.5,3.8,Allopathic
+University of Minnesota Twin Cities Medical School ,umn,1851,170,Minneapolis,MN,USA,4,37872,49767,32.0,3.7,Allopathic
+University of North Carolina-Chapel Hill School of Medicine,unc-som,1879,180,Chapel Hill,NC,USA,4,17537,44416,31.9,3.8,Allopathic
+University of Pittsburgh School of Medicine,pitt-med,1886,148,Pittsburgh,PA,USA,4,48792,50014,36.0,3.9,Allopathic
+University of Rochester School of Medicine,rochester,1925,104,Rochester,NY,USA,4,50300,50300,33.0,3.8,Allopathic
+University of Saskatchewan College of Medicine,usk-fom,1926,100,Saskatoon,SK,Canada,4,15840,,30.0,,Allopathic
+University of Texas Medical School-Houston,ut-houston,1969,240,Houston,TX,USA,4,15024,26150,31.4,3.8,Allopathic
+University of Texas Southwestern Medical Center Medical School,ut-southwestern,1943,230,Dallas,TX,USA,4,17163,30263,33.9,3.9,Allopathic
+University of Vermont College of Medicine,uvm,1819,156,Burlington,VT,USA,4,47118,57726,34.4,3.8,Allopathic
+University of Virginia School of Medicine,uva,1819,141,Charlottesville,VA,USA,4,30100,40100,33.5,3.9,Allopathic
+University of Wisconsin-Madison School of Medicine and Public Health,uwsmph,1907,175,Madison,WI,USA,4,27254,37150,32.0,3.8,Allopathic
+Vanderbilt University School of Medicine,vandy,1875,108,Nashville,TN,USA,4,45350,45350,36.7,3.9,Allopathic
+University of Central Florida College of Medicine,ucf-com,2006,120,Orlando,FL,USA,4,29680,56553,32.0,3.8,Allopathic
+Arizona College of Osteopathic Medicine at Midwestern University,azcom,1995,254,Glendale,AZ,USA,3,64241,64241,29.0,3.5,Osteopathic
+Rocky Vista University College of Osteopathic Medicine,rvucom,2006,165,Parker,CO,USA,3,49830,49830,28.0,3.5,Osteopathic
+Alabama College of Osteopathic Medicine,alcom,2013,,Dothan,AL,USA,3,44280,44280,,,Osteopathic
+Chicago College of Osteopathic Medicine of Midwestern University,ccom,1900,206,Downers Grove,IL,USA,3,63138,63138,29.5,3.6,Osteopathic
+Edward Via College of Osteopathic Medicine - Virginia,vcom,2002,188,Blacksburg,VA,USA,3,43250,43250,26.0,3.6,Osteopathic
+Kansas City University of Medicine and Biosciences College of Osteopathic Medicine,kcumb,1916,264,Kansas City,MO,USA,3,43288,43288,26.0,3.6,Osteopathic
+University of Manitoba Faculty of Health Sciences College of Medicine,umanitoba,1877,96,Winnipeg,MB,Canada,3,8592,23847,33.0,,Allopathic
+University of Montreal Faculty of Medicine,uom-fom,,,Montreal,QC,Canada,,,,,,Allopathic
+Florida Atlantic University Charles E. Schmidt College of Medicine,fau-com,1998,64,Boca Raton,FL,USA,3,28111,62532,33.3,3.7,Allopathic
+New York Institute of Technology College of Osteopathic Medicine ,nycom,1977,279,Old Westbury,NY,USA,3,54000,54000,28.0,3.6,Osteopathic
+Nova Southeastern University College of Osteopathic Medicine,nsu-com,1979,230,Fort Lauderdale,FL,USA,3,47195,51698,28.0,3.4,Osteopathic
+Oakland University William Beaumont School of Medicine,oakland,2008,84,Rochester,MI,USA,3,50023,50023,30.0,3.8,Allopathic
+University of New England College of Osteopathic Medicine,unecom,1978,124,Biddeford,ME,USA,3,52690,52690,27.0,3.5,Osteopathic
+University of North Texas Health Science Center Texas College of Osteopathic Medicine,unthsctcom,1970,230,Fort Worth,TX,USA,3,13079,28766,28.0,3.6,Osteopathic
+West Virginia School of Osteopathic Medicine,wvsom,1974,200,Lewisburg,WV,USA,3,20450,50200,25.0,3.4,Osteopathic
+LMU DeBusk College of Osteopathic Medicine,lmu-dcom,2007,225,Harrogate,TN,USA,3,46348,46348,27.0,3.3,Osteopathic
+Philadelphia College of Osteopathic Medicine,pcom-georgia,2005,,Suwanee,GA,USA,3,46620,46620,28.0,3.5,Osteopathic
+Albert Einstein College of Medicine of Yeshiva University,aecom,1955,183,Bronx,NY,USA,3,53149,53149,,3.8,Allopathic
+Ben-Gurion University - Medical School for International Health,msih,1969,35,New York,NY,USA,3,35300,35300,28.0,3.5,Allopathic
+Brody School of Medicine at East Carolina University,ecu,1974,80,Greenville,NC,USA,3,,,30.0,3.6,Allopathic
+Boston University School of Medicine,bu,1848,168,Boston,MA,USA,3,50950,50950,,,Allopathic
+Creighton University School of Medicine,creighton,1878,,Omaha,NE,USA,3,54512,54512,30.0,3.8,Allopathic
+East Tennessee State University James H. Quillen College of Medicine,etsu-qcom,1974,72,Johnson City,TN,USA,3,31566,32776,28.7,3.7,Allopathic
+Florida State University College of Medicine,fsu,2000,121,Tallahassee,FL,USA,3,28082,69024,28.0,3.6,Allopathic
+George Washington University School of Medicine and Health Sciences,gwu,1824,178,Washington,DC,USA,3,55787,55787,30.0,3.7,Allopathic
+Thomas Jefferson University Sidney Kimmel Medical College,jmc,1824,250,Philadelphia,PA,USA,3,53311,53311,,,Allopathic
+Howard University College of Medicine,hucm,1868,,Washington,DC,USA,3,41215,41215,,,Allopathic
+Indiana University School of Medicine,iusm,1903,345,Indianapolis,IN,USA,3,33349,53703,31.0,3.7,Allopathic
+Loma Linda University School of Medicine,llu,1905,,Loma Linda,CA,USA,3,53276,53276,30.0,3.7,Allopathic
+Louisiana State University Shreveport School of Medicine,lsu-shreveport,1969,115,Shreveport,LA,USA,3,20146,46881,29.0,3.7,Allopathic
+McMaster University Michael G. DeGroote School of Medicine,mcmaster,1887,152,Hamilton,ON,Canada,3,27001,95945,,3.8,Allopathic
+Medical College of Georgia at Augusta University,mcg,1828,,Augusta,GA,USA,3,27802,55606,31.3,3.7,Allopathic
+Medical College of Wisconsin,mcw,1893,204,Milwaukee,WI,USA,3,50700,50700,31.9,3.7,Allopathic
+Medical University of South Carolina College of Medicine,musc,1824,162,Charleston,SC,USA,3,35662,62126,31.5,3.7,Allopathic
+Mercer University School of Medicine,musm,1982,97,Macon,GA,USA,3,41457,41457,28.0,3.7,Allopathic
+Morehouse School of Medicine,msm,1975,68,Atlanta,GA,USA,3,44503,44503,27.0,3.5,Allopathic
+Northern Ontario School of Medicine,nosm,2005,64,Sudbury,ON,Canada,3,20242,,,3.8,Allopathic
+Oregon Health & Sciences University School of Medicine,ohsu-som,1887,132,Portland,OR,USA,3,39980,57972,31.2,3.6,Allopathic
+Queen's University School of Medicine,qusm,1842,,Kingston,ON,Canada,3,,,,,Allopathic
+Rush University Rush Medical College,rmc,1837,131,Chicago,IL,USA,3,49784,49784,31.0,3.7,Allopathic
+Sackler School of Medicine,ssm,1976,64,New York,NY,USA,3,40000,40000,28.0,3.4,Allopathic
+Tufts University School of Medicine,tusm,1893,163,Boston,MA,USA,3,58346,58346,32.8,3.7,Allopathic
+Tulane University School of Medicine,tulane,1834,185,New Orleans,LA,USA,3,58592,58592,33.2,3.5,Allopathic
+University of Arizona College of Medicine - Tucson,ua-com,1967,117,Tucson,AZ,USA,3,31626,53300,29.0,3.6,Allopathic
+University of California Irvine School of Medicine,uci,1967,90,Irvine,CA,USA,3,36503,36503,33.0,3.7,Allopathic
+University of Cincinnati College of Medicine,uc-com,1819,170,Cincinnati,OH,USA,3,29680,47944,33.0,3.7,Allopathic
+University of Hawaii at Manoa John A. Burns School of Medicine,jabsom,1965,66,Honolulu,HI,USA,3,34896,69240,31.0,3.7,Allopathic
+University of Kentucky College of Medicine,ukcom,1960,115,Lexington,KY,USA,3,35929,65861,31.9,3.7,Allopathic
+University of Maryland School of Medicine,um-som,1807,161,Baltimore,MD,USA,3,32662,58906,31.7,3.7,Allopathic
+University of Minnesota Duluth Medical School,umn-duluth,1972,60,Duluth,MN,USA,3,37872,49767,29.0,3.6,Allopathic
+University of Mississippi Medical Center School of Medicine,olemiss,1903,145,Jackson,MS,USA,3,25649,,28.4,3.7,Allopathic
+University of Missouri School of Medicine,mu,1872,159,Columbia,MO,USA,3,30304,57614,30.2,3.8,Allopathic
+University of Nebraska Medical Center College of Medicine,unmc-com,1902,123,Omaha,NE,USA,3,27992,69632,31.0,3.8,Allopathic
+University of Oklahoma College of Medicine,ouhsc,1900,165,Oklahoma City,OK,USA,3,22886,52323,30.0,3.7,Allopathic
+University of South Alabama College of Medicine,usa,1973,74,Mobile,AL,USA,3,27393,54010,30.0,3.6,Allopathic
+University of South Florida Morsani College of Medicine,usf-com,1965,156,Tampa,FL,USA,3,36000,55000,31.0,3.8,Allopathic
+University of Southern California Keck School of Medicine,usc-keck,1885,186,Los Angeles,CA,USA,3,59122,59122,35.0,3.7,Allopathic
+Long School of Medicine - University of Texas Health Science Center,uthscsa,1959,230,San Antonio,TX,USA,3,14500,28907,31.8,3.7,Allopathic
+University of Utah School of Medicine,utah-som,1943,92,Salt Lake City,UT,USA,3,33837,64059,30.0,3.6,Allopathic
+University of Western Ontario Schulich School of Medicine & Dentistry,uwo-fom,1881,171,London,ON,Canada,3,22929,,32.0,3.7,Allopathic
+Virginia Commonwealth University Medical Center School of Medicine,vcu-som,1838,210,Richmond,VA,USA,3,31608,47572,30.2,3.6,Allopathic
+Wake Forest Baptist Medical Center School of Medicine,wfusm,1902,120,Winston-Salem,NC,USA,3,51800,51800,31.9,3.6,Allopathic
+Duke-NUS Graduate Medical School Singapore,duke-nus,2005,60,Singapore,,Singapore,3,31728,41495,,4.5,Allopathic
+Texas Tech University Health Sciences Center Paul L. Foster School of Medicine,ttuhsc-plfsom,2007,100,El Paso,TX,USA,3,14550,27650,28.5,3.6,Allopathic
+University of Arizona College of Medicine - Phoenix,uacom-p,2007,80,Phoenix,AZ,USA,3,29914,49472,31.0,3.7,Allopathic
+Virginia Tech Carilion School of Medicine,vtc,2010,42,Roanoke,VA,USA,3,49800,49800,32.0,3.5,Allopathic
+Campbell University Jerry M. Wallace School of Osteopathic Medicine,cusom,2013,,Buies Creek,NC,USA,2,40600,40600,,,Osteopathic
+Marian University College of Osteopathic Medicine,mu-com,2010,162,Indianapolis,IN,USA,2,44100,44100,26.0,3.6,Osteopathic
+Lake Erie College of Osteopathic Medicine at Bradenton,lecom-florida,2004,150,Bradenton,FL,USA,2,29925,32085,27.0,3.5,Osteopathic
+Lake Erie College of Osteopathic Medicine at Erie,lecom,1992,324,Erie,PA,USA,2,31495,31495,27.0,3.5,Osteopathic
+San Juan Bautista School of Medicine,sjbsom,1978,62,Caguas,PR,PuertoRico,2,56514,65014,21.0,3.4,Allopathic
+University of Pikeville Kentucky College of Osteopathic Medicine,pcsom,1997,75,Pikeville,KY,USA,2,40120,40120,24.0,3.5,Osteopathic
+Touro University Nevada College of Osteopathic Medicine Las Vegas,tucom-nv,2004,135,Henderson,NV,USA,2,49960,49960,27.3,3.4,Osteopathic
+LIJ School of Medicine at Hofstra University,hofstra,2011,98,Hempstead,NY,USA,2,47000,47000,,,Allopathic
+Western University of Health Sciences College of Osteopathic Medicine of the Pacific,wucomp,1977,220,Pomona,CA,USA,2,53610,53610,28.0,3.6,Osteopathic
+A.T. Still University School of Osteopathic Medicine in Arizona,atsu-soma,2007,108,Mesa,AZ,USA,2,54442,54442,28.0,3.5,Osteopathic
+SUNY - Upstate Medical University College of Medicine,suny-upstate,1834,172,Syracuse,NY,USA,2,38250,63260,30.0,3.6,Allopathic
+Eastern Virginia Medical School,evms,1973,152,Norfolk,VA,USA,2,31196,56382,30.0,3.4,Allopathic
+Georgetown University School of Medicine,georgetown,1851,190,Washington,DC,USA,2,48796,48696,31.5,3.6,Allopathic
+Marshall University Joan C. Edwards School of Medicine,jcesom,1977,72,Huntington,WV,USA,2,20086,47676,28.5,3.6,Allopathic
+Meharry Medical College School of Medicine,mmc,1876,105,Nashville,TN,USA,2,45580,45580,26.7,3.5,Allopathic
+Michigan State University College of Human Medicine,msu-chm,1964,212,East Lansing,MI,USA,2,40112,82071,28.0,3.6,Allopathic
+Pennsylvania State University College of Medicine,psu,1967,148,Hershey,PA,USA,2,44162,51984,29.8,3.7,Allopathic
+Ross University School of Medicine,rusm,1978,,Iselin,NJ,USA,2,41385,41385,24.0,3.2,Allopathic
+Saba University School of Medicine,susm,1986,95,Devens,MA,USA,2,29850,29850,32.0,2.7,Allopathic
+Southern Illinois University School of Medicine,siu,1970,72,Springfield,IL,USA,2,32985,,30.0,3.7,Allopathic
+St. George's University School of Medicine,sgu,1976,,Great River,NY,USA,2,49282,49282,27.0,3.4,Allopathic
+St. Matthew's University School of Medicine,smu-som,1997,50,Orlando,FL,USA,2,34950,34950,,,Allopathic
+SUNY - University at Buffalo Jacobs School of Medicine and Biomedical Sciences,ub-smbs,1846,144,Buffalo,NY,USA,2,38250,63260,32.0,3.8,Allopathic
+SUNY - Stony Brook University School of Medicine,suny-sb,1971,116,Stony Brook,NY,USA,2,21470,40640,,3.6,Allopathic
+Temple University School of Medicine,tu-som,1901,210,Philadelphia,PA,USA,2,44964,53468,32.0,3.7,Allopathic
+Texas A & M University System Health Science Center College of Medicine,tamushsc-com,1977,192,Bryan,TX,USA,2,16432,29532,30.1,3.7,Allopathic
+Rutgers New Jersey Medical School,umdnj-njms,1954,,Newark,NJ,USA,2,37615,57479,32.5,3.6,Allopathic
+Rutgers Robert Wood Johnson Medical School,umdnj-rwjms,1962,147,Piscataway,NJ,USA,2,37615,57479,31.5,3.6,Allopathic
+University of Arkansas for Medical Sciences College of Medicine,uams,1879,170,Little Rock,AR,USA,2,26548,53096,29.0,3.7,Allopathic
+University of Calgary Cumming School of Medicine,uoc-fom,1967,170,Calgary,AB,Canada,2,15012,,31.8,3.8,Allopathic
+University of Connecticut School of Medicine,uconn-som,1961,90,Farmington,CT,USA,2,27074,46629,30.4,3.7,Allopathic
+University of Illinois College of Medicine,uic-med,1882,314,Chicago,IL,USA,2,38396,75396,31.0,3.6,Allopathic
+University of Kansas School of Medicine,kusom,1905,210,Kansas City,KS,USA,2,34150,60462,30.0,3.5,Allopathic
+University of Louisville School of Medicine,u-of-l,1837,160,Louisville,KY,USA,2,36464,55462,29.0,3.6,Allopathic
+University of Nevada School of Medicine,unsom,1969,68,Reno,NV,USA,2,25110,55464,29.0,3.6,Allopathic
+University of New Mexico School of Medicine,unm,1964,100,Albuquerque,NM,USA,2,16118,46296,28.3,3.7,Allopathic
+University of South Carolina School of Medicine,uscsm,1974,100,Columbia,SC,USA,2,39114,87750,28.7,3.6,Allopathic
+University of South Dakota Sanford School of Medicine,usdsm,1907,58,Vermillion,SD,USA,2,12831,31777,30.0,3.8,Allopathic
+University of Tennessee Health Science Center College of Medicine-Memphis,ut-com,1911,165,Memphis,TN,USA,2,32430,66432,30.0,3.7,Allopathic
+University of Texas Medical Branch-Galveston,utmb,1891,230,Galveston,TX,USA,2,15384,28484,28.8,3.8,Allopathic
+University of Toledo College of Medicine and Life Sciences,utoledo-com,1969,176,Toledo,OH,USA,2,15424,30677,30.3,3.7,Allopathic
+Wayne State University School of Medicine,wsu,1868,290,Detroit,MI,USA,2,33057,65346,31.5,3.7,Allopathic
+West Virginia University Robert C. Byrd Health Sciences Center School of Medicine,wvu-som,1902,110,Morgantown,WV,USA,2,29295,56673,29.0,3.8,Allopathic
+Wright State University Boonshoft School of Medicine,wsu-bsom,1974,104,Dayton,OH,USA,2,32072,49024,29.2,3.6,Allopathic
+American University of the Caribbean,auc,1978,,Coral Gables,FL,USA,2,43750,43750,25.0,3.2,Allopathic
+Touro College of Osteopathic Medicine - New York,tourocom-ny,2007,135,New York,NY,USA,1,48140,48140,,,Osteopathic
+William Carey University College of Osteopathic Medicine,wcu-com,2007,110,Hattiesburg,MS,USA,1,39000,39000,,,Osteopathic
+The Commonwealth Medical College,tcmc,2008,92,Scranton,PA,USA,1,42165,42165,29.0,3.7,Allopathic
+Touro University California College of Osteopathic Medicine Mare Island,tucom-ca,1997,135,Vallejo,CA,USA,1,32072,49024,30.4,3.5,Osteopathic
+Pacific Northwest University of Health Sciences College of Osteopathic Medicine,pnwu,2005,135,Yakima,WA,USA,1,50000,50000,26.9,3.4,Osteopathic
+Albany Medical College,amc,1839,191,Albany,NY,USA,1,55360,55360,36.0,3.6,Allopathic
+Drexel University College of Medicine,ducom,1848,,Philadelphia,PA,USA,1,53164,53164,,,Allopathic
+New York Medical College,nymc,1860,350,Valhalla,NY,USA,1,52200,52200,32.0,3.6,Allopathic
+Northeast Ohio Medical University College of Medicine,neoucom,1973,65,Rootstown,OH,USA,1,34670,34670,29.9,3.6,Allopathic
+Ponce Health Sciences University,psm,1977,118,Ponce,PR,PuertoRico,1,31624,31624,21.0,3.2,Allopathic
+Chicago Medical School at Rosalind Franklin University of Medicine and Health Sciences,rfucms,1912,190,North Chicago,IL,USA,1,52365,52365,30.0,3.5,Allopathic
+Saint Louis University School of Medicine,slu,1836,176,Saint Louis,MO,USA,1,50440,50440,32.7,3.8,Allopathic
+SUNY - Downstate Medical Center College of Medicine,suny-downstate,1860,72,Brooklyn,NY,USA,1,38250,63260,35.5,3.8,Allopathic
+Texas Tech University Health Sciences Center School of Medicine,ttuhsc,1969,146,Lubbock,TX,USA,1,12550,26650,31.0,3.7,Allopathic
+Universidad Central Del Caribe School of Medicine,ucdcsom,1976,74,Bayamón,PR,PuertoRico,1,34250,42255,23.0,3.6,Allopathic
+University of Missouri-Kansas City School of Medicine,umkc-som,1971,106,Kansas City,MO,USA,1,30514,44875,28.0,3.7,Allopathic
+University of North Dakota School of Medicine and Health Sciences,undsmhs,1905,78,Grand Forks,ND,USA,1,29494,53388,29.0,3.7,Allopathic
+Florida International University Herbert Wertheim College of Medicine,fiu,2006,120,Miami,FL,USA,1,32738,62738,31.0,3.7,Allopathic
+Quinnipiac University School of Medicine,qu-som,2010,60,Hamden,CT,USA,1,53420,53420,29.5,3.7,Allopathic
